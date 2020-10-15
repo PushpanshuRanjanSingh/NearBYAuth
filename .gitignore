@@ -1,0 +1,4 @@
+staticfiles
+.vscode
+*.pyc
+authfile.json
